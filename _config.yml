@@ -112,3 +112,12 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 83e259f69b37d02a4633a2b7d960139c
+
+# Google Analytics
+ga_track_id: 'UA-137366074-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
